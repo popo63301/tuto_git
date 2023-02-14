@@ -14,3 +14,10 @@ créer projet github =
 - `git push`
 
 Le projet est en ligne
+
+---
+
+créer branche = `git checkout -B nom_de_ma_branche`
+changer vers une branche existant = `git checkout nom_de_ma_branche`
+
+une fois qu'on a fini le travail, on crée une pull request sur github
